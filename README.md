@@ -1,5 +1,5 @@
 # GoTCPHolePuncher
-A proof of concept for TCP hole punching in C# .NET. But the concept is the same and can be used in any programming language. 
+A proof of concept for TCP hole punching in C# .NET. But the concept is the same and can be used in any programming language. <br><b>I am working on the dlls more. Once it is complete ill upload the code also.</b>
 
 This application works based on basic Hole punching concepts as below.
 <ul>
